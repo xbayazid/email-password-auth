@@ -1,0 +1,15 @@
+.link a{
+    text-decoration: none;
+}
+
+
+.bg{
+    background-color: wheat;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.register{
+    padding-top: 100px;
+    margin-left: 50px;
+}

@@ -1,0 +1,13 @@
+.nav-link a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.nav-link a:hover{
+    background-color: black;
+    color: white;
+}
