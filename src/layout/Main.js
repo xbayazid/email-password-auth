@@ -5,7 +5,7 @@ import './Main.css';
 const Main = () => {
     return (
         <div>
-            <nav className='nav-link w-50 mx-auto mt-4'>
+            <nav className='nav-link w-50 mx-auto mt-5'>
                 <Link to='/register'>Register</Link>
                 <Link to='/login'>Login</Link>
             </nav>
